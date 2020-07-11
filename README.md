@@ -4,4 +4,4 @@ Simple script to extract tables in pdf and store in csv file
 Used Tabula, an open source tool.
 pip install tabula-py
 
-Table need to be cleaned afterwards.
+Table can be cleaned afterwards using excel itself or by using pandas.
