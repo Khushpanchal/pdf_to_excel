@@ -1,4 +1,6 @@
 # pdf_to_excel
+### PPP.csv contains the extracted table in excel
+
 pdf_file --> Contains pdf file
 
 pdf_to_excel.py --> Simple script to extract tables in pdf and store in csv file
